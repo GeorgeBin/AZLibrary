@@ -6,9 +6,19 @@
 
 目的：在自己的硬盘上囤积存储一些书籍
 
-[GitHub 项目地址](https://github.com/GeorgeBin/AZLibrary)
+上网时看到了 Pirate Library Mirror 资源相关文章，看到其包含书籍约千万本，于是我的仓鼠症就犯了，想要收集下载这些文件。
 
-[资源-百度网盘](https://pan.baidu.com/s/1t4crgUno_STip0DU4caIkg?pwd=gyv9)
+其图书资源来源于 Z-Library，后被 Anna获取后 发布种子也就是 Pirate Library Mirror，再后来 Anna 构建了自己的网站 Anna's Archive，目标是收藏人类图书的 10%，目前已收录 5%。
+
+于是我收集了种子，种子下载后，发现其内文件都是以  Z-Library ID（数字） 命名的，所以根据其提供的数据库文件，建立了索引。而后感觉这个东西可能有点用，所以整理了一下，提供出来。
+
+主要内容：种子+索引+重命名脚本。
+
+
+
+[本文 GitHub 项目地址](https://github.com/GeorgeBin/AZLibrary)
+
+[本文中资源-百度网盘分享](https://pan.baidu.com/s/1t4crgUno_STip0DU4caIkg?pwd=gyv9)
 
 
 
