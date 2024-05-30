@@ -1,0 +1,9 @@
+查询中文书籍语句：
+	select zlibrary_id,extension,title from books where HEX(title) REGEXP '^(..)*(E[4-9])' or language='chinese' 
+
+查询需要的结果，并按照 zlibrary_id 升序排列：0-100
+
+SELECT zlibrary_id, extension, title
+FROM books
+WHERE zlibrary_id BETWEEN 0 AND 100
+ORDER BY zlibrary_id ASC;

@@ -1,0 +1,3 @@
+查看 MySQL 状态：sudo /usr/local/mysql/support-files/mysql.server status
+关闭 MySQL：sudo /usr/local/mysql/support-files/mysql.server stop
+启动 MySQL：sudo /usr/local/mysql/support-files/mysql.server start

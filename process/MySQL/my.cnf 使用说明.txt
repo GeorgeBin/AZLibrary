@@ -1,0 +1,9 @@
+my.cnf 内容：（Mac 系统下使用）
+
+[mysqld]
+max_allowed_packet=81920M
+wait_timeout=288000
+interactive_timeout = 288000
+
+
+备注：这个文件不能用文本编辑器编辑，一般使用命令行内的 vim 编辑保存
