@@ -33,11 +33,6 @@ InputFolderPath = filedialog.askdirectory()  # 下载文件所在目录
 IndexFilePath = filedialog.askopenfilename()  # 索引文件
 OutPutFolderPath = filedialog.askdirectory()  # 重命名后文件输出目录
 
-# todo：测试目录
-# input_root = '/Users/george/Downloads/Downloader/浏览器/Z-Library/Test/Demo'
-# InputFolderPath = os.path.join(input_root, '下载文件')  # 下载文件所在目录
-# IndexFilePath = os.path.join(input_root, 'index.txt')  # 索引文件
-# OutPutFolderPath = os.path.join(input_root, '修改后文件')  # 重命名后文件输出目录
 
 error_file = os.path.join(OutPutFolderPath, 'rename_err.txt')  # 定义输出日志路径：发生错误
 no_file = os.path.join(OutPutFolderPath, 'rename_no.txt')  # 定义输出日志路径：没有找到文件
