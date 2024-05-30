@@ -8,6 +8,8 @@
 
 [GitHub 项目地址](https://github.com/GeorgeBin/AZLibrary)
 
+[资源-百度网盘](https://pan.baidu.com/s/1t4crgUno_STip0DU4caIkg?pwd=gyv9)
+
 
 
 ## 背景介绍
@@ -73,6 +75,10 @@
 > 
 >
 > 有两个索引文件，因为超过了 100MB，所以分割为两部分，跑重命名脚本的时候，需要注意
+>
+> 
+>
+> 百度网盘分享：链接: https://pan.baidu.com/s/1t4crgUno_STip0DU4caIkg?pwd=gyv9 提取码: gyv9
 
 
 
