@@ -77,7 +77,7 @@ with open(error_file, 'w', newline='', encoding='utf-8') as errorfile, open(no_f
                 numberOfSuccess += 1
             else:
                 try:
-                    writer_no.writerow(book)  # 文件不存在，记录到错误文件中
+                    writer_no.writerow([zlibrary_id, extension, title])  # 文件不存在，记录到错误文件中
                     print(f"文件不存在：{zlibrary_id}")
                     numberOfNotFound += 1
                 except Exception as e2:
@@ -87,7 +87,7 @@ with open(error_file, 'w', newline='', encoding='utf-8') as errorfile, open(no_f
             print(f"重命名发生错误：{e}")
             numberOfError += 1
             try:
-                writer_err.writerow([book, str(e)])  # 记录错误信息到错误文件中
+                writer_err.writerow([zlibrary_id, extension, title, str(e)])  # 记录错误信息到错误文件中
             except Exception as e3:
                 print(f"写日志发生错误(rename_err.txt)：{e3}")
                 numberOfWriteError += 1
