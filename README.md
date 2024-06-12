@@ -94,3 +94,13 @@ Download Z-Library by Pirate Library Mirror And Rename.
   ```
 
 * pilimi-zlib-0-119999.torrent 作为第一个种子，下载速度较快，但没有中文书籍，且格式多为 fb2.zip
+
+
+
+
+
+### 待办
+
+- [ ] tree 索引：进行中
+- [ ] zlib3
+- [ ] Book Searcher 搭建
