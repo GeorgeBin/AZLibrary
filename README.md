@@ -6,27 +6,27 @@ Download Z-Library by Pirate Library Mirror And Rename.
 
 
 
-简体中文 | [English](README_eng.md)
+相关：
+
+* 简体中文 | [English](README_eng.md)
+
+* [处理过程流水账](other/README.md)
 
 
 
-[处理过程流水账](other/README.md)
-
-
-
-## 本资源目录说明
+## 说明
 
 * torrent：种子（书籍）
 * index：用于重命名的索引（来自数据库导出）
 * tree：用于重命名的索引（来自实际文件夹）
-* other：其他文件，用于交流、学习
+* other：其他文件，用于学习交流
   * reference：参考资料
   * process：处理时使用的过程文件
   * torrent-index：种子（数据库）
 
 
 
-## 本资源使用步骤
+## 使用步骤
 
 
 
@@ -104,3 +104,6 @@ Download Z-Library by Pirate Library Mirror And Rename.
 - [ ] tree 索引：进行中
 - [ ] zlib3
 - [ ] Book Searcher 搭建
+- [ ] zlib1（7TB），索引文件数量：x，实际文件数量：x
+- [ ] zlib2（24TB），索引文件数量：x，实际文件数量：x
+- [ ] zlib3（xTB），索引文件数量：x，实际文件数量：x
