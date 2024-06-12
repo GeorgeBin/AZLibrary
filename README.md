@@ -62,7 +62,7 @@ Download Z-Library by Pirate Library Mirror And Rename.
 #### 方式二：使用 tree 重命名（来源：本资源 tree 目录）
 
 1. 安装 Python 环境
-2. 运行 `rename_by_tree.py.py` 脚本
+2. 运行 `rename_by_tree.py` 脚本
    * 首先选择文件夹：存放下载书籍的文件夹。
    * 其次选择索引 txt 文件：注意和种子的对应关系。
    * 最后选择文件夹：重命名后，输出文件夹。
