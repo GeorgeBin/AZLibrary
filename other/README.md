@@ -1,4 +1,6 @@
-# 本地图书库的下载与存储实践（关于 Pirate Library Mirror、Z-Library、Anna's Archive、Book Searcher）
+# 本地图书库的下载与存储实践
+
+关于 Pirate Library Mirror、Z-Library、Anna's Archive、Book Searcher
 
 
 
@@ -13,14 +15,6 @@
 于是我收集了种子，种子下载后，发现其内文件都是以  Z-Library ID（数字） 命名的，所以根据其提供的数据库文件，建立了索引。而后感觉这个东西可能有点用，所以整理了一下，提供出来。
 
 主要内容：种子+索引+重命名脚本。
-
-
-
-[本文 GitHub 项目地址](https://github.com/GeorgeBin/AZLibrary)
-
-[本文中资源-百度网盘分享](https://pan.baidu.com/s/1t4crgUno_STip0DU4caIkg?pwd=gyv9)
-
-[本文知乎文章地址](https://zhuanlan.zhihu.com/p/700750899)
 
 
 
@@ -46,51 +40,6 @@
 - zlib2（24TB）
 
 
-
-
-
-## 本资源使用步骤
-
-1. 下载本资源
-
-   * 主要使用：torrent-zlib1、torrent-zlib2、index-zlib1、index-zlib2、rename_by_txt.py
-   * 其他文件作为交流、学习、备份
-
-2. 安装 BT 下载软件，推荐使用 [qBittorrent](https://www.qbittorrent.org/download)
-
-3. 通过种子下载书籍，仅使用 torrent-zlib1、torrent-zlib2 文件夹内的种子即可
-
-4. 安装 Python 环境，安装需要的 Python 包
-
-   ```sh
-   pip install pathvalidate
-   ```
-
-5. 一个种子完成下载后，运行 `rename_by_txt.py` 脚本
-
-   1. 首先选择存放下载的书籍的文件夹
-   2. 其次选择索引 txt 文件（注意和种子的对应关系）
-   3. 最后选择重命名后，输出文件夹
-
-6. 脚本运行完成后，查看日志，处理未重命名的文件
-
-
-
-> 备注：
->
-> 种子：pilimi-zlib-0-119999.torrent 作为第一个种子，下载速度较快，但没有中文书籍，且格式多为 fb2.zip
->
-> 
->
-> 可先下载：pilimi-zlib-11040000-11079999.torrent，其大小适中（82GB），包含中文书籍比较多，但下载速度未知
->
-> 
->
-> 有两个索引文件，因为超过了 100MB，所以分割为两部分，跑重命名脚本的时候，需要注意
->
-> 
->
-> 百度网盘分享：链接: https://pan.baidu.com/s/1t4crgUno_STip0DU4caIkg?pwd=gyv9 提取码: gyv9
 
 
 
