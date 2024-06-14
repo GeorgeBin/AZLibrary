@@ -104,6 +104,6 @@ Download Z-Library by Pirate Library Mirror And Rename.
 - [ ] tree 索引：进行中
 - [ ] zlib3
 - [ ] Book Searcher 搭建
-- [ ] zlib1（7TB），索引文件数量：x，实际文件数量：x
-- [ ] zlib2（24TB），索引文件数量：x，实际文件数量：x
+- [ ] zlib1（7TB），索引文件数量：1468 万，实际文件数量：x
+- [ ] zlib2（24TB），索引文件数量：775 万，实际文件数量：x
 - [ ] zlib3（xTB），索引文件数量：x，实际文件数量：x
