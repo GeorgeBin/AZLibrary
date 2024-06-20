@@ -12239,7 +12239,7 @@
 "5802832"	"epub"	"All That I Am"
 "5802833"	"mobi"	"The Admiral's Daughter"
 "5802834"	"mobi"	"A Warrior's Lady"
-"5802835"	"pdf"	"The	Self-taught Programmer"
+"5802835"	"pdf"	"The Self-taught Programmer"
 "5802836"	"pdf"	"Head First Design Patterns"
 "5802837"	"mobi"	"Annabelle's Courtship"
 "5802838"	"pdf"	"Learning Python"

@@ -17894,7 +17894,7 @@
 "11988186"	"lit"	"GOING GLOBAL WITH SAUSAGES: Tasty Sausage Recipes from Around the World"
 "11988187"	"mobi"	"GOING GLOBAL WITH SAUSAGES: Tasty Sausage Recipes from Around the World"
 "11988188"	"rtf"	"GOING GLOBAL WITH SAUSAGES: Tasty Sausage Recipes from Around the World"
-"11988189"	"txt"	"GOING	GLOBAL	WITH	 SAUSAGES"
+"11988189"	"txt"	"GOING GLOBAL WITH SAUSAGES"
 "11988190"	"pdf"	"GOING GLOBAL WITH SAUSAGES: Tasty Sausage Recipes from Around the World"
 "11988191"	"epub"	"Good Housekeeping One-Dish Meals"
 "11988192"	"azw3"	"Good Housekeeping One-Dish Meals"

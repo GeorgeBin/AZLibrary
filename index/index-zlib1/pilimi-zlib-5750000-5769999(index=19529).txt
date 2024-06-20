@@ -6934,7 +6934,7 @@
 "5757020"	"epub"	"La belle traitresse"
 "5757021"	"pdf"	"Hoțul de cărți"
 "5757022"	"epub"	"The Watcher"
-"5757023"	"pdf"	"O mistério quântico: uma expedição às fronteiras da física	"
+"5757023"	"pdf"	"O mistério quântico: uma expedição às fronteiras da física"
 "5757024"	"pdf"	"O Motorista e o Milionário"
 "5757025"	"pdf"	"A VICTIM"
 "5757026"	"pdf"	"Acolo unde femeile sunt regi"
