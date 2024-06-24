@@ -12983,7 +12983,7 @@
 "11943315"	"pdf"	"Living Well with Menopause: What Your Doctor Doesn't Tell You...That You Need To Know"
 "11943316"	"pdf"	"cover (Page 1)"
 "11943317"	"pdf"	"Handbook on the Morphology of Common Grasses: Identification and Characterization of Caryopses and Seedlings"
-"11943318"	"pdf"	"d:cirrusapp	omcat-6.0.26	empimageItem2905509348583369850#_#9780198707646.pdf"
+"11943318"	"pdf"	"dcirrusapp omcat-6.0.26 empimageItem2905509348583369850#_#9780198707646"
 "11943319"	"pdf"	"Kidding Around"
 "11943320"	"pdf"	"Complete Krav Maga: The Ultimate Guide to Over 200 Self-Defense and Combative Techniques"
 "11943321"	"pdf"	"The Option Edge"

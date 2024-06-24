@@ -25826,7 +25826,7 @@
 "11685941"	"pdf"	"Sorry I Missed You: A Novel"
 "11685942"	"epub"	"自由的法 (世界法学名著译丛)"
 "11685944"	"epub"	"The Last Straw"
-"11685945"	"pdf"	"Panduan	Pengelolaan Dislipidemia di Indonesia - 2015"
+"11685945"	"pdf"	"Panduan Pengelolaan Dislipidemia di Indonesia - 2015"
 "11685946"	"epub"	"Re:Monster - Volume 05"
 "11685947"	"epub"	"Re:Monster - Volume 06"
 "11685948"	"epub"	"Re:Monster - Volume 07"
