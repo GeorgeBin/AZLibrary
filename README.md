@@ -95,13 +95,13 @@ Download Z-Library by Pirate Library Mirror And Rename.
 
 * pilimi-zlib-0-119999.torrent 作为第一个种子，下载速度较快，但没有中文书籍，且格式多为 fb2.zip
 
-* zlib1：
+* zlib1：已 release
 
   * 总大小：6.15TB
   * 索引文件数量：1468 万
   * 实际文件数量：218万
 
-* zlib2：
+* zlib2：tree 处理中
 
 
 
@@ -110,7 +110,7 @@ Download Z-Library by Pirate Library Mirror And Rename.
 ### 待办
 
 - [ ] tree 索引：进行中
-- [ ] zlib3
+- [ ] zlib3 种子
 - [ ] Book Searcher 搭建
 - [ ] zlib2（24TB），索引文件数量：775 万，实际文件数量：x
 - [ ] zlib3（xTB），索引文件数量：x，实际文件数量：x
