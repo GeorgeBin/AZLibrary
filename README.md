@@ -55,7 +55,6 @@ Download Z-Library by Pirate Library Mirror And Rename.
 >
 > 有两个索引文件，因为超过了 100MB，所以分割为两部分，重命名时需注意。
 >
-> 百度网盘分享：链接: https://pan.baidu.com/s/1t4crgUno_STip0DU4caIkg?pwd=gyv9 提取码: gyv9
 
 
 
@@ -114,3 +113,10 @@ Download Z-Library by Pirate Library Mirror And Rename.
 - [ ] Book Searcher 搭建
 - [ ] zlib2（24TB），索引文件数量：775 万，实际文件数量：x
 - [ ] zlib3（xTB），索引文件数量：x，实际文件数量：x
+
+
+
+## 历程
+
+* 2024.07.04：发现百度网盘分享失效，移除分享链接
+* 2024.07.04：zlib1 处理完成，发布 release
