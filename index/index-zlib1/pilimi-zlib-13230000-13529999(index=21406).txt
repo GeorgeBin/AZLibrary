@@ -707,7 +707,7 @@
 "13240009"	"epub"	"El pequeño libro que aún vence al mercado"
 "13240069"	"epub"	"Grandes maestros de la inversión"
 "13240071"	"epub"	"Pied Piper. A DeMMonica Romance (Grim and Sinister Delights book 6)"
-"13240220"	"pdf"	" 	 The Politically Incorrect Reader -- April 2021 "
+"13240220"	"pdf"	"The Politically Incorrect Reader-April 2021"
 "13240237"	"pdf"	"Yoko Tsuno, Bd.9, Die Tochter Des Windes"
 "13240325"	"pdf"	"Oameni anxosi"
 "13240335"	"epub"	"El pequeño libro de los altos rendimientos con bajo riesgo"
