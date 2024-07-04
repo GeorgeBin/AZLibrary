@@ -57,7 +57,7 @@ Download Z-Library by Pirate Library Mirror And Rename.
 
 > Note: Continuously updating.
 
-#### 
+.
 
 #### Comparison
 
@@ -79,7 +79,11 @@ Download Z-Library by Pirate Library Mirror And Rename.
 
 * pilimi-zlib-0-119999.torrent as the first torrent, downloads quickly, but mostly  fb2.zip
 
+* zlib1: release
 
+  * 6.15TB
+
+  * file: 2180K
 
 
 
@@ -88,3 +92,9 @@ Download Z-Library by Pirate Library Mirror And Rename.
 - [ ] Tree: in progress
 - [ ] zlib3
 - [ ] Book Searcher
+
+
+
+## Milestone
+
+* 2024.07.04: zlib1 release
