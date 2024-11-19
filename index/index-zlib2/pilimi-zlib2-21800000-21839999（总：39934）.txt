@@ -22498,7 +22498,7 @@
 "21822545"	"pdf"	"The consonants:"
 "21822546"	"mobi"	"Puzzle for Players"
 "21822547"	"pdf"	"Strategic Creativity : A Business Field Guide to Advertising, Branding, and Design"
-"21822548"	"epub"	"	 Strategic Creativity : A Business Field Guide to Advertising, Branding, and Design"
+"21822548"	"epub"	"Strategic Creativity：A Business Field Guide to Advertising, Branding, and Design"
 "21822549"	"pdf"	"State Reform and Development in the Middle East : Turkey and Egypt in the Post-Liberalization Era"
 "21822550"	"epub"	"State Reform and Development in the Middle East : Turkey and Egypt in the Post-Liberalization Era"
 "21822551"	"pdf"	"Sociology for Education Studies : Connecting Theory, Settings and Everyday Experiences"

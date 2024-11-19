@@ -13563,7 +13563,7 @@
 "22113561"	"epub"	"Regras Sórdidas (Série Wicked Bay Livro 2)"
 "22113562"	"mobi"	"Regras Sórdidas (Série Wicked Bay Livro 2)"
 "22113563"	"pdf"	"Regras Sórdidas (Série Wicked Bay Livro 2)"
-"22113564"	"epub"	"	 There's No Such Thing as an IT Project : A Handbook for Intentional Business Change"
+"22113564"	"epub"	"There's No Such Thing as an IT Project：A Handbook for Intentional Business Change"
 "22113565"	"pdf"	"Бойното поле. Иванов"
 "22113566"	"epub"	"Mentiras Sórdidas"
 "22113567"	"mobi"	"Mentiras Sórdidas"
