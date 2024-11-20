@@ -1,18 +1,16 @@
 # AZLibrary
 
-下载 Z-Library 书籍，并重命名。
+使用 [安娜的档案](https://annas-archive.li/) 提供的资源，下载书籍（包括 Z-Library 等），并重命名。
 
-Download Z-Library by Pirate Library Mirror And Rename.
+Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Include Pirate Library Mirror and so on.
 
-
-
-相关：
+. 
 
 * 简体中文 | [English](README_eng.md)
 
 * [处理过程流水账](other/README.md)
 
-
+. 
 
 ## 说明
 
@@ -24,11 +22,11 @@ Download Z-Library by Pirate Library Mirror And Rename.
   * process：处理时使用的过程文件
   * torrent-index：种子（数据库）
 
-
+.
 
 ## 使用步骤
 
-
+.
 
 ### 一、下载书籍
 
@@ -36,7 +34,7 @@ Download Z-Library by Pirate Library Mirror And Rename.
 * 通过种子下载：仅使用 torrent-zlib1、torrent-zlib2
 * 一个种子下载完，就可进行此种子的重命名啦
 
-
+.
 
 ### 二、重命名
 
@@ -49,14 +47,12 @@ Download Z-Library by Pirate Library Mirror And Rename.
    * 最后选择文件夹：重命名后，输出文件夹。
 3. 脚本运行完成后，查看日志，手动处理未能成功重命名的文件。
 
+.
 
-
-> 备注：
->
-> 有两个索引文件，因为超过了 100MB，所以分割为两部分，重命名时需注意。
+> 备注：有两个索引文件，因超过 100MB，分割为两部分，重命名时需注意。
 >
 
-
+.
 
 #### 方式二：使用 tree 重命名（来源：本资源 tree 目录）
 
@@ -67,12 +63,12 @@ Download Z-Library by Pirate Library Mirror And Rename.
    * 最后选择文件夹：重命名后，输出文件夹。
 3. 脚本运行完成后，查看日志，手动处理未能成功重命名的文件。
 
-
+.
 
 > 备注：持续更新中
 >
 
-
+.
 
 #### 方式一和方式二对比：
 
@@ -81,7 +77,7 @@ Download Z-Library by Pirate Library Mirror And Rename.
 | 方式一 | 覆盖 zlib1、zlib2 所有种子   | 索引数远远大于实际文件数量，冗余高             |
 | 方式二 | 根据实际文件目录生成，冗余低 | 未完全覆盖所有种子，持续更新中（zlib1 已完成） |
 
-
+.
 
 ### 三、其他
 
@@ -94,6 +90,21 @@ Download Z-Library by Pirate Library Mirror And Rename.
 
 * pilimi-zlib-0-119999.torrent 作为第一个种子，下载速度较快，但没有中文书籍，且格式多为 fb2.zip
 
+
+.
+
+### 待办
+
+- [ ] tree 索引：进行中
+- [ ] zlib3 种子
+- [ ] Book Searcher 搭建
+- [ ] zlib2（24TB），索引文件数量：775 万，实际文件数量：x
+- [ ] zlib3（xTB），索引文件数量：x，实际文件数量：x
+
+.
+
+## Release
+
 * zlib1：[已 release](https://github.com/GeorgeBin/AZLibrary/releases/tag/zlib1)
 
   * 总大小：6.15TB
@@ -104,19 +115,9 @@ Download Z-Library by Pirate Library Mirror And Rename.
 
 
 
-
-
-### 待办
-
-- [ ] tree 索引：进行中
-- [ ] zlib3 种子
-- [ ] Book Searcher 搭建
-- [ ] zlib2（24TB），索引文件数量：775 万，实际文件数量：x
-- [ ] zlib3（xTB），索引文件数量：x，实际文件数量：x
-
-
-
 ## 历程
 
+* 2024.11.20：研究 zlib3，发现网站提供了 duxiu 资源，一起研究一下
+* 2024.11.19：更新了zlib2 相关资源
 * 2024.07.04：发现百度网盘分享失效，移除分享链接
 * 2024.07.04：zlib1 处理完成，发布 release
