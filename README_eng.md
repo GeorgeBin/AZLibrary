@@ -1,6 +1,6 @@
 # AZLibrary
 
-Download Z-Library by Pirate Library Mirror And Rename.
+Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Include Pirate Library Mirror and so on.
 
 
 
@@ -61,10 +61,10 @@ Download Z-Library by Pirate Library Mirror And Rename.
 
 #### Comparison
 
-|          | Advantages                          | Disadvantages                                                |
-| -------- | ----------------------------------- | ------------------------------------------------------------ |
-| Method 1 | Covers all torrents of zlib1, zlib2 | The index number is larger than the actual file number, highly redundant |
-| Method 2 | Generated based on actual files     | Does not fully cover all torrents, continuously updating     |
+|          | Advantages                      | Disadvantages                                                |
+| -------- | ------------------------------- | ------------------------------------------------------------ |
+| Method 1 | -                               | The index number is larger than the actual file number, highly redundant |
+| Method 2 | Generated based on actual files | -                                                            |
 
 
 
@@ -89,12 +89,13 @@ Download Z-Library by Pirate Library Mirror And Rename.
 
 ### To Do
 
-- [ ] Tree: in progress
+- [ ] Local Book Searcher
 - [ ] zlib3
-- [ ] Book Searcher
+- [ ] duxiu
 
 
 
 ## Milestone
 
+* 2024.12.04: zlib2 release
 * 2024.07.04: zlib1 release

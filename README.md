@@ -72,10 +72,10 @@ Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Inc
 
 #### 方式一和方式二对比：
 
-|        | 优点                         | 缺点                                           |
-| ------ | ---------------------------- | ---------------------------------------------- |
-| 方式一 | 覆盖 zlib1、zlib2 所有种子   | 索引数远远大于实际文件数量，冗余高             |
-| 方式二 | 根据实际文件目录生成，冗余低 | 未完全覆盖所有种子，持续更新中（zlib1 已完成） |
+|        | 优点                         | 缺点                               |
+| ------ | ---------------------------- | ---------------------------------- |
+| 方式一 | -                            | 索引数远远大于实际文件数量，冗余高 |
+| 方式二 | 根据实际文件目录生成，冗余低 | -                                  |
 
 .
 
@@ -95,11 +95,9 @@ Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Inc
 
 ### 待办
 
-- [ ] tree 索引：进行中
-- [ ] zlib3 种子
-- [ ] Book Searcher 搭建
-- [ ] zlib2（24TB），索引文件数量：775 万，实际文件数量：x
-- [ ] zlib3（xTB），索引文件数量：x，实际文件数量：x
+- [ ] 本地 Book Searcher 搭建
+- [ ] zlib3
+- [ ] duxiu
 
 .
 
@@ -107,16 +105,19 @@ Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Inc
 
 * zlib1：[已 release](https://github.com/GeorgeBin/AZLibrary/releases/tag/zlib1)
 
-  * 总大小：6.15TB
+  * 总大小：6.15 TB
   * 索引文件数量：1468 万
-  * 实际文件数量：218万
-
-* zlib2：tree 处理中
+  * 实际文件数量：218 万
+* zlib2：[已 release](https://github.com/GeorgeBin/AZLibrary/releases/tag/zlib2)
+  * 总大小：21.5 TB
+  * 索引文件数量：775 万
+  * 实际文件数量：381 万
 
 
 
 ## 历程
 
+* 2024.12.04：zlib2 处理完成，发布 release
 * 2024.11.20：研究 zlib3，发现网站提供了 duxiu 资源，一起研究一下
 * 2024.11.19：更新了zlib2 相关资源
 * 2024.07.04：发现百度网盘分享失效，移除分享链接
