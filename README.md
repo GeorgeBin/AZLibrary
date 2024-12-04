@@ -10,7 +10,21 @@ Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Inc
 
 * [处理过程流水账](other/README.md)
 
-. 
+
+
+## Release
+
+* zlib1：[已 release](https://github.com/GeorgeBin/AZLibrary/releases/tag/zlib1)
+
+  * 总大小：6.15 TB
+  * 索引文件数量：1468 万
+  * 实际文件数量：218 万
+* zlib2：[已 release](https://github.com/GeorgeBin/AZLibrary/releases/tag/zlib2)
+  * 总大小：21.5 TB
+  * 索引文件数量：775 万
+  * 实际文件数量：381 万
+
+
 
 ## 说明
 
@@ -38,7 +52,7 @@ Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Inc
 
 ### 二、重命名
 
-#### 方式一：使用 index 重命名（来源：本资源 index 目录）
+#### ~~方式一：使用 index 重命名（来源：本资源 index 目录）~~
 
 1. 安装 Python 环境，安装需要的 Python 包：pip install pathvalidate。
 2. 运行 `rename_by_txt.py` 脚本。
@@ -70,12 +84,7 @@ Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Inc
 
 .
 
-#### 方式一和方式二对比：
-
-|        | 优点                         | 缺点                               |
-| ------ | ---------------------------- | ---------------------------------- |
-| 方式一 | -                            | 索引数远远大于实际文件数量，冗余高 |
-| 方式二 | 根据实际文件目录生成，冗余低 | -                                  |
+#### 方式二优势：根据实际文件目录生成，冗余低，推荐使用
 
 .
 
@@ -98,20 +107,6 @@ Download Books Use [Anna’s Archive](https://annas-archive.li/) And Rename. Inc
 - [ ] 本地 Book Searcher 搭建
 - [ ] zlib3
 - [ ] duxiu
-
-.
-
-## Release
-
-* zlib1：[已 release](https://github.com/GeorgeBin/AZLibrary/releases/tag/zlib1)
-
-  * 总大小：6.15 TB
-  * 索引文件数量：1468 万
-  * 实际文件数量：218 万
-* zlib2：[已 release](https://github.com/GeorgeBin/AZLibrary/releases/tag/zlib2)
-  * 总大小：21.5 TB
-  * 索引文件数量：775 万
-  * 实际文件数量：381 万
 
 
 
